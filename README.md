@@ -1,4 +1,4 @@
-# Project 4 — Stopwatch ⏱️
+<!-- # Project 4 — Stopwatch ⏱️
 
 A beautiful, glassy dark-theme stopwatch app built with **React + Vite** — millisecond-accurate timing, lap history with fastest/slowest highlighting, a live lap "pace" waveform, session history saved to local storage, keyboard shortcuts, and subtle sound feedback.
 
@@ -61,4 +61,4 @@ All colors, radii and glows live as CSS custom properties at the top of `src/ind
 
 ---
 
-⌨️ **Tip:** press `Space` to start, `L` for a lap, `R` to reset — watch the waveform draw itself.
+⌨️ **Tip:** press `Space` to start, `L` for a lap, `R` to reset — watch the waveform draw itself. -->
